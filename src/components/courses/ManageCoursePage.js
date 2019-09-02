@@ -32,7 +32,7 @@ function ManageCoursePage({
         alert("Loading authors failed" + error);
       });
     }
-  }, []);
+  }, [props.course]);
 
   function handleChange(event) {
     const { name, value } = event.target;

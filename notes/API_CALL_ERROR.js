@@ -1,6 +1,3 @@
-
-API_CALL_ERROR adding
-
 actionTypes.js
 	export const API_CALL_ERROR = "API_CALL_ERROR";
 -----------------------------------------------------------------
@@ -51,4 +48,3 @@ authorAction.js
       });
   };
 -----------------------------------------------------------------
-  
